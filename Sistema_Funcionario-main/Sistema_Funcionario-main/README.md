@@ -7,3 +7,5 @@ Sistema calcula salário dos seguintes tipos de Empregados: Comissionado, Gerent
 # Feito por: 
 * Maria Fernanda Gonçalves 
 * Amanda Mayara Melo de Matos
+
+![alice-paisdasmaravilhas](https://user-images.githubusercontent.com/91507393/227745123-50487a6f-7843-4c5b-bf9c-79a60d9bfe96.gif)
